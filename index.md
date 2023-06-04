@@ -5,10 +5,18 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+# Experience Sumary
 
-There should be whitespace between paragraphs.
+Over 15 plus years of experience ,worked on various roles from Developer to Tech Lead and Senior Technical Consultant to Technical Architect in various Agile Project assignments
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Proven work experience as Microsoft.Net Technical Architect with the knowledge of strategic IT solutions
+
+Expert in handling multiple streams/projects across with key focus on designing the structure of technology systems, overseeing the low-level implementation of programs, and liaising with the development team.
+
+Maintain good rapport with Clients - propose reasonable, sustainable design solutions, and provide accurate, detailed drawings
+
+Coordinate with teams, to mitigate issues, risks and dependencies successfully 
+
 
 # Header 1
 
