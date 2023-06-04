@@ -5,12 +5,21 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+# Experience Summary
+o	Working as Tech Arch Manager in Accenture India from Feb 2020- till date
 
-There should be whitespace between paragraphs.
+o	Working as Senior Consultant in Emishealth India from May 2016-Jan 2020
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+o	Worked as Sr.Software Engineer in SocieteGenerale from Aug2013–Dec 2015
 
-# Header 1
+o	Worked as Module Lead in MindTree Ltd from Aug 2011 – Aug 2013.
+
+o	Worked as a Software Engineer in Sagitec Solutions from Apr 2007-Oct 2010.
+
+o	15+ Years of experience in the field of Microsoft Technologies
+
+
+# Project 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
